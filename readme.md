@@ -97,6 +97,7 @@ Libraries, agents and MCP servers you can run yourself. Check each licence; not 
 
 For teams whose product includes LLM features that need their own tests.
 
+- [Agentic AI Test Checklist 110](https://huggingface.co/datasets/srinivaspadmanabhuni/agentic-ai-test-checklist-110) - Open dataset of 110 manual test procedures for LLM agents, with TestRail, Jira/Xray and Azure Test Plans import files.
 - [DeepEval](https://github.com/confident-ai/deepeval) - Evaluation framework for LLM apps, written like unit tests.
 - [garak](https://github.com/NVIDIA/garak) - Scans LLMs for vulnerabilities such as prompt injection and data leakage.
 - [Giskard](https://github.com/Giskard-AI/giskard-oss) - Evaluation and testing library for LLM agents.
