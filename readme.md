@@ -36,6 +36,7 @@ Platforms where an agent explores an app, or works from a goal, then produces or
 - [Spur](https://www.spurtest.com/) - AI testing agents aimed at e-commerce and consumer brands.
 - [TestOptim](https://www.testoptim.com/) - Explores a web app from its URL, generates test cases, runs them and files issues with steps, screenshots, video and Playwright traces.
 - [TestSprite](https://www.testsprite.com/) - Plans, generates and runs tests from a URL or product spec, with an MCP server for coding agents.
+- [Thunders](https://www.thunders.ai/) - AI test agents build, run and maintain end-to-end tests from plain-language descriptions across web, mobile, API and desktop.
 - [Validate.QA](https://validate.qa/) - Generates a Playwright suite from a URL that you keep and run yourself.
 
 ## Managed QA services
